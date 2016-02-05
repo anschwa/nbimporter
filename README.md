@@ -1,8 +1,6 @@
 # nbimporter
 Import IPython Notebooks as modules (with Jupyter v4).
 
-Updated from module collated here:
-
 ## Origin
 This is a modified version of code originally collated from
 https://github.com/adrn/ipython/blob/master/examples/Notebook/Importing%20Notebooks.ipynb
